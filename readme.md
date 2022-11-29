@@ -1,7 +1,7 @@
 
 
 
-![](.\images\color_wd.jpg)
+![](./images/color_wd.jpg)
 
 # Intro
 
@@ -9,12 +9,12 @@ Color is the best tool for Designers & designers who want to pick up
 the color so quickly than ever. Even you can combine this tool with your 
 favorite design software like Adobe too
 
-<a href="" style="text-decoration: none; color: white; cursor: hover">
+<span>Click below to download color v1.0.0</span>
+
+<a href="https://www.mediafire.com/file/a998koeber08jis/Color_v1.0.0.rar/file" style="text-decoration: none; color: white; cursor: hover">
 <div style="background: black; border-radius: 10px; width: 110px; height:35px; text-align: center; padding: 10px">
-<span style="font-size: 17px; line-height: 30px;margin: 0; padding: 0;" >Download</span>
+<span style="font-size: 17px; line-height: 30px;margin: 0; padding: 0;" >Download Version: 1.0.0</span>
 </div>
-<small style="margin-left: 15px; letter-spacing: 2px;">Version: 1.0.0</small>
-<br>
 </a>
 
 
@@ -40,7 +40,7 @@ favorite design software like Adobe too
     License: MIT
     Price: Free
     Author: Suresh P
-    Latest update: Monday, November 28 2022
+    Latest update: Monday, November 29 2022
 
 # Minimum System Requirements <br> For Color
 
