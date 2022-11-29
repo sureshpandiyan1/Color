@@ -41,7 +41,7 @@ favorite design software like Adobe too
     License: MIT
     Price: Free
     Author: Suresh P
-    Latest update: Monday, November 29 2022
+    Latest update: Monday, November 28 2022
 
 # Minimum System Requirements <br> For Color
 
