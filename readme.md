@@ -27,7 +27,7 @@ favorite design software like Adobe too
     - no prior knowledge needed to use
 
 # most useful for
-    - Designers
+    - designers & developers
 
 # demo
 
