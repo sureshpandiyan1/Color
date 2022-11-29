@@ -39,7 +39,7 @@ favorite design software like Adobe too
     Title: Color 1.0.0 For Windows
     Filename: Color-v1.0.0.rar
     Version: 1.0.0
-    Setup Size: 7.04 MB
+    Setup Size: 8.15 MB
     Requirements: Windows 7 / 8 / 10 / 11
     Compatibility: 32 Bit (x86) / 64 Bit (x64)
     Language: English
