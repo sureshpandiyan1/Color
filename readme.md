@@ -11,7 +11,7 @@ favorite design software like Adobe too
 
 <span>Click below to download color v1.0.0</span>
 
-<a href="https://www.mediafire.com/file/a998koeber08jis/Color_v1.0.0.rar/file" style="text-decoration: none; color: white; cursor: hover">
+<a href="https://www.mediafire.com/file/a998koeber08jis/Color_v1.0.0.rar/file" target="_blank" style="text-decoration: none; color: white; cursor: hover">
 <div style="background: black; border-radius: 10px; width: 110px; height:35px; text-align: center; padding: 10px">
 <span style="font-size: 17px; line-height: 30px;margin: 0; padding: 0;" >Download Version: 1.0.0</span>
 </div>
