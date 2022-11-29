@@ -9,11 +9,11 @@ Color is the best tool for Designers & designers who want to pick up
 the color so quickly than ever. Even you can combine this tool with your 
 favorite design software like Adobe too
 
-<span>Click below to download color v1.0.0</span>
+<span>Click below to download portable of color v1.0.0</span>
 
-<a href="https://www.mediafire.com/file/a998koeber08jis/Color_v1.0.0.rar/file" target="_blank" style="text-decoration: none; color: white; cursor: hover">
+<a href="https://www.mediafire.com/file/955l7x9ddx7rg1i/Color_v1.0.0_portable.rar/file" target="_blank" style="text-decoration: none; color: white; cursor: hover">
 <div style="background: black; border-radius: 10px; width: 110px; height:35px; text-align: center; padding: 10px">
-<span style="font-size: 17px; line-height: 30px;margin: 0; padding: 0;" >Download Version: 1.0.0</span>
+<span style="font-size: 17px; line-height: 30px;margin: 0; padding: 0;" >Download Version: 1.0.0 Portable</span>
 </div>
 </a>
 
@@ -21,6 +21,7 @@ favorite design software like Adobe too
 # Highlights
     - easy to use
     - load faster
+    - no need to install (simply double click color.exe to run)
     - copy color instantly
     - very handy
     - no prior knowledge needed to use
